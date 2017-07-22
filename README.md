@@ -7,4 +7,4 @@
 - 勉強用カレンダー
 
 ## 画面動作
-![画面](http://imgur.com/a/yGcLN)
+![画面動作](http://i.imgur.com/3rvosoD.gif)
